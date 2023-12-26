@@ -1,4 +1,4 @@
-<h1>Hi, I'm Hassan! <br/><a  <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
+<h1>Hi, I'm Hassan! <br/><a  <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional / Ethical Hacker</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 

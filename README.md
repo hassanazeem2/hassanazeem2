@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Enter project name</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Password Strength Checker](https://github.com/hassanazeem2/password_strength_checker)
 
 <h2>📜Certifications</h2>
 <a href="https://www.comptia.org/certifications/security">CompTIA Security+</a><br>

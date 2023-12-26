@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b>Enter project name</b>
+- <b>Password Strength Checker</b>
   - [Password Strength Checker](https://github.com/hassanazeem2/password_strength_checker)
 
 <h2>📜Certifications</h2>

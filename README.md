@@ -3,7 +3,7 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b>Password Strength Checker</b>
-  - [Password Strength Checker](https://github.com/hassanazeem2/password_strength_checker)
+  - [Click](https://github.com/hassanazeem2/password_strength_checker)
 
 <h2>📜Certifications</h2>
 <a href="https://www.comptia.org/certifications/security">CompTIA Security+</a><br>

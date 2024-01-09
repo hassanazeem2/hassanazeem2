@@ -1,22 +1,12 @@
-<h1>Hi, I'm Hassan! <br/><a  <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional / Ethical Hacker</a>
+**Password Strength Checker**
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+**Overview**
 
-- <b>Password Strength Checker</b>
-  - [Click](https://github.com/hassanazeem2/password_strength_checker)
+The Password Strength Checker is a tool designed to assess the strength and security level of passwords. It evaluates passwords based on various criteria and provides a rating or score indicating their strength.
 
-<h2>📜Certifications</h2>
-<a href="https://www.comptia.org/certifications/security">CompTIA Security+</a><br>
-<a href="https://www.comptia.org/certifications/a">CompTIA A+</a>
+**Features**
 
-
-<h2> 🤳 Connect with me:</h2>
-
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-
-[linkedin]: https://www.linkedin.com/in/hassan-azeem-9849b827b/
-
-<!--
+Strength Assessment: Analyzes passwords and rates their strength based on complexity, length, character types, and patterns.
+Scalable Criteria: Considers multiple factors including uppercase/lowercase letters, numbers, special characters, and avoids common patterns or dictionary words.
+Customizable Thresholds: Allows customization of strength thresholds based on specific security requirements or guidelines.
+Fast and Efficient: Performs quick evaluations, making it suitable for real-time password strength checks during user registration or authentication processes.
